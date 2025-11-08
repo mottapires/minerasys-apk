@@ -13,3 +13,4 @@ class MainActivity: FlutterActivity() {
 Crie o arquivo no caminho exato:
 ```
 android/app/src/main/kotlin/com/smgengenharia/minerasys/MainActivity.kt
+
