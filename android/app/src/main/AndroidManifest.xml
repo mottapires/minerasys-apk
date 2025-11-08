@@ -11,11 +11,11 @@
     
     <uses-feature android:name="android.hardware.camera" android:required="false" />
     <uses-feature android:name="android.hardware.location" android:required="false" />
-
+    
     <application
         android:label="MineraSys"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@android:drawable/sym_def_app_icon">
         
         <activity
             android:name=".MainActivity"
